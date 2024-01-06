@@ -1,0 +1,6 @@
+,Пол,Семейное_положение,Возраст,Высшее_образование,Профессия,Опыт_работы,Уровень_расходов,Размер_семьи,Анонимная_категория,Целевая_категория
+0,Male,No,22,No,Healthcare,1.0,Low,4.0,Cat_4,D
+1,Female,Yes,38,Yes,Engineer,,Average,3.0,Cat_4,A
+2,Female,Yes,67,Yes,Engineer,1.0,Low,1.0,Cat_6,B
+3,Male,Yes,67,Yes,Lawyer,0.0,High,2.0,Cat_6,B
+4,Female,Yes,40,Yes,Entertainment,,High,6.0,Cat_6,A
